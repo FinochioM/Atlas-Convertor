@@ -1,0 +1,1 @@
+This application takes and Image as an input, then splits this image into 16x16 squares, draws an index number for each of those squares starting from the top left corner and then saves the new image into a given folder.
